@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoGeneratorSettingsState">
+    <option name="ignoredFields">
+      <set>
+        <option value="" />
+      </set>
+    </option>
+    <option name="moduleName" value="RewardIncentiveSystem" />
+    <option name="moduleNameToSettings">
+      <map>
+        <entry key="RewardIncentiveSystem">
+          <value>
+            <ModuleSettings>
+              <option name="controllerParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+              <option name="dtoParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+              <option name="entityPackageName" value="com.technoride.RewardIncentiveSystem.entity" />
+              <option name="entityParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+              <option name="mapperXmlParentDirectory" value="$PROJECT_DIR$/src/main/resources" />
+              <option name="repositoryPackageName" value="com.technoride.RewardIncentiveSystem.repository" />
+              <option name="repositoryParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+              <option name="serviceParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+              <option name="voParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="DatabaseSettingsState">
+    <option name="database" value="WEAVING_INCENTIVE" />
+    <option name="driverClass" value="com.mysql.jdbc.Driver" />
+    <option name="driverPath" value="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.21/mysql-connector-java-8.0.21.jar" />
+    <option name="host" value="200.0.0.227" />
+    <option name="url" value="jdbc:mysql://{host}:{port}/{database}?useSSL=false&amp;useUnicode=true&amp;characterEncoding=UTF-8" />
+  </component>
+</project>
